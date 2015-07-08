@@ -12,3 +12,4 @@ Using a source code management system is absolutely required in any modern devel
 * <a href='{{ site.baseurl }}/modules/git/scm.html'>SCM Overview</a>
 * <a href='{{ site.baseurl }}/modules/git/basics.html'>Git Basics</a>
 * <a href='{{ site.baseurl }}/modules/git/github.html'>GitHub Basics</a>
+* <a href='{{ site.baseurl }}/modules/git/advanced.html'>Advanced Git</a>
