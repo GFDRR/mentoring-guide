@@ -12,3 +12,9 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+collections:
+    modules:
+        output: true
+    tracks:
+        output: true
