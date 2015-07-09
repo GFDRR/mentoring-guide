@@ -32,7 +32,7 @@ Reference Material
 * http://lists.osgeo.org/cgi-bin/mailman/listinfo/geonode-devel
 * http://lists.osgeo.org/cgi-bin/mailman/listinfo/geonode-users
 * https://groups.google.com/forum/#!forum/geonode-users
-* * https://groups.google.com/a/opengeo.org/forum/#!forum/geonode-dev
+* https://groups.google.com/a/opengeo.org/forum/#!forum/geonode-dev
 * http://geonode.readthedocs.org/en/latest/organizational/community_resources.html
 * http://geoserver.org/
 * http://postgis.org/
