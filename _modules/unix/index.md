@@ -12,3 +12,4 @@ Basic Unix Technology
 * <a href='{{ site.baseurl }}/modules/unix/networking.html'>Unix Networking</a>
 * <a href='{{ site.baseurl }}/modules/unix/ssh.html'>Secure Shell (SSH)</a>
 * <a href='{{ site.baseurl }}/modules/unix/ftp_scp_rsync.html'>ftp/scp/rsync</a>
+* <a href='{{ site.baseurl }}/modules/unix/wget_curl.html'>wget/curl</a>
