@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Android 
+title: Django Development 
 index: 0
 ---
 
-Android
-=======
+Django Development
+==================
