@@ -7,8 +7,11 @@ index: 2
 GeoNode Developers Track
 ========================
 
-* Using GeoNode
-* Virtualization
+
+
+* <a href='{{ site.baseurl }}/modules/geonode/using.html'>Using GeoNode</a>
+* <a href='{{ site.baseurl }}/modules/geonode/community.html'>Joining the GeoNode Community</a>
+* <a href='{{ site.baseurl }}/modules/virtualization/'>Virtualization</a>
 * Cloud
 * Web Servers
 * Web Development
@@ -19,8 +22,7 @@ GeoNode Developers Track
 * Spatial Databases (PostGIS)
 * Important Libraries / Tools
 * Spatial Web Servers
-* Using GeoNode
-* GeoNode Installation and Administration
-* GeoNode Template Project Setup
-* GeoNode Development Environment
+* <a href='{{ site.baseurl }}/modules/geonode/installation.html'>GeoNode Installation and Administration</a>
+* <a href='{{ site.baseurl }}/modules/geonode/template_project.html'>GeoNode Template Project Setup</a>
+* <a href='{{ site.baseurl }}/modules/geonode/development.html'>GeoNode Development Environment</a>
 * DevOps
