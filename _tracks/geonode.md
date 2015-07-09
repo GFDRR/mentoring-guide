@@ -25,4 +25,4 @@ GeoNode Developers Track
 * <a href='{{ site.baseurl }}/modules/geonode/installation.html'>GeoNode Installation and Administration</a>
 * <a href='{{ site.baseurl }}/modules/geonode/template_project.html'>GeoNode Template Project Setup</a>
 * <a href='{{ site.baseurl }}/modules/geonode/development.html'>GeoNode Development Environment</a>
-* <a href='{{ site.baseurl }}/modules/dev_ops/'>DevOps</a>
+* <a href='{{ site.baseurl }}/modules/devops/'>DevOps</a>
