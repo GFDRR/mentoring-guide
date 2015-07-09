@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Django Development 
+title: Python Development 
 index: 0
 ---
 
-Django Development
+Python Development
 ==================
