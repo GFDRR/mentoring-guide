@@ -30,6 +30,11 @@ Goals/Objectives/Outcomes
 Reference Material
 ------------------
 
+* http://thecloudtutorial.com/rackspacecloud.html
+* https://www.youtube.com/watch?v=lpJfFZoWeho
+* https://www.digitalocean.com/community/tutorials
+* https://www.digitalocean.com/help/getting-started/setting-up-your-server/
+
 Measures of Success
 -------------------
 

@@ -24,6 +24,13 @@ Goals/Objectives/Outcomes
 Reference Material
 ------------------
 
+* http://aws.amazon.com/documentation/
+* http://aws.amazon.com/documentation/gettingstarted/
+* http://aws.amazon.com/documentation/ec2/
+* http://aws.amazon.com/documentation/s3/
+* http://aws.amazon.com/documentation/rds/
+
+
 Measures of Success
 -------------------
 
