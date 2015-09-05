@@ -7,7 +7,7 @@ index: 0
 nginx
 =====
 
-nginx is a web server with a focus on high concurrency, performance and low memory usage. It is open source (BSD) and runs on all popular operating systems. It is the most widely used alternative to apache.
+nginx is a web server with a focus on high concurrency, performance and low memory usage. It can host applications written in most popular web framework, is open source (BSD) and runs on all popular operating systems. It is the most widely used alternative to apache.
 
 Goals/Objectives/Outcomes
 -------------------------
@@ -31,6 +31,6 @@ Reference Material
 Measures of Success
 -------------------
 
-* Participant can articulate the difference between how apache and nginx work and why you would want to use nginx
+* Participant can articulate the differences in how apache and nginx work and why you might want to use nginx
 * Participant has installed nginx and configured an application to run using it
-* Participant has begun to consider production deployment architecture for their application
+* Participant has begun to consider production deployment architecture for their own application
