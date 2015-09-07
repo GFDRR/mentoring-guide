@@ -19,9 +19,9 @@ Python is one of the most popular programming languages in use today and its ver
 Python Language Reference Material
 ----------------------------------
 
-* http://www.diveintopython.net/
-* https://docs.python.org/2/tutorial/
-* http://www.learnpython.org/
-* https://www.codecademy.com/en/tracks/python
+* <a href='http://www.diveintopython.net/'>http://www.diveintopython.net/</a>
+* <a href='https://docs.python.org/2/tutorial/'>https://docs.python.org/2/tutorial/</a>
+* <a href='http://www.learnpython.org/'>http://www.learnpython.org/</a>
+* <a href='https://www.codecademy.com/en/tracks/python'>https://www.codecademy.com/en/tracks/python</a>
 
 
